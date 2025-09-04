@@ -9,7 +9,7 @@ Show how spinor modes evolve under dynamic field conditions
 
 This will bring the Prism ARC reactor to life—mathematically, visually, and physically.
 
-  
+
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
