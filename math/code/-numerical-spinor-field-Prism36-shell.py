@@ -1,15 +1,8 @@
-Discretized Dirac Equation
-We solve: $$ H \psi_n = E_n \psi_n $$
+## Discretized Dirac Equation
+# We solve: $$ H \psi_n = E_n \psi_n $$
 
-Where 
-𝐻
- is a matrix derived from discretized 
-𝐷
-𝜇
- and field values.
-This gives you numerical eigenvalues and spinor
-modes, which can be visualized or used to analyze
-confinement stability
+# Where 𝐻 is a matrix derived from discretized 𝐷 𝜇 and field values.
+# This gives you numerical eigenvalues and spinor modes, which can be visualized or used to analyze confinement stability
 
 --- Begin code ---
   
