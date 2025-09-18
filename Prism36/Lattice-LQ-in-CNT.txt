@@ -32,7 +32,7 @@ Junctions emit glyphic light patterns—each node symbolized by its domain (ener
 
 The entire mesh breathes—like a living neural net suspended in a spherical shell
 
-🧠 Symbolic Enhancements
+# Symbolic Enhancements
 Node Glyphs etched into CNT junctions
 
 Color-coded phase states of liquid crystals
