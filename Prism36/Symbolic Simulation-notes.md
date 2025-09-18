@@ -39,7 +39,7 @@ Outputs the full symbolic system of equations
 Ready for eigenmode extraction, symmetry analysis, or symbolic simplification
 
 # Result: Unified Simulation
-You now have:
+We now have:
 
 Symbolic eigenmodes extracted from the Dirac operator
 
