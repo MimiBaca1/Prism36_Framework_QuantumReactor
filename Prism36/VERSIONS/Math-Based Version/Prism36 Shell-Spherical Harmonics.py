@@ -1,5 +1,10 @@
 ## The math-based simulation of the Prism36 shell using spherical harmonics and symbolic modeling. This Python module uses sympy for symbolic math and scipy.special for harmonic evaluation, allowing you to visualize and analyze resonance patterns across the 36-node lattice.
 
+#What This Does: Defines symbolic spherical harmonics using sympy/ Evaluates them numerically using scipy.special.sph_harm/ Maps 36 nodes on a sphere and visualizes resonance amplitudes/Ready for symbolic eigenmode extraction or symmetry analysis
+
+#🔗 Notes SciPy’s sph_harm uses the convention: sph_harm(m, l, theta, phi) You can change l_val and m_val to explore different harmonic modes Symbolic expressions can be expanded further using sympy for algebraic analysis
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.special import sph_harm
