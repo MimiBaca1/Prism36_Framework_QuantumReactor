@@ -66,4 +66,4 @@ This document outlines the proposed materials used in the construction of the Pr
 - All materials are speculative and symbolic unless otherwise noted.
 - Future simulations may refine material choices based on plasma behavior, harmonic tuning, and AI integration.
 
-© MIA Theories Collective 2025. All rights reserved.
+© The Mia Theories Collective 2025. All rights reserved.
