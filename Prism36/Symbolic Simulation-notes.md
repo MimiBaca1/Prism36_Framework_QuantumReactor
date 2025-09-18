@@ -28,3 +28,12 @@ Where:
 
 𝑚
 : Mass term
+
+# What This Does
+Constructs the Dirac operator symbolically
+
+Applies it to a 4-component spinor field
+
+Outputs the full symbolic system of equations
+
+Ready for eigenmode extraction, symmetry analysis, or symbolic simplification
