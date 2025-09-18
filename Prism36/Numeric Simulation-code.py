@@ -1,5 +1,7 @@
 # Numeric simulation for the Prism36 Quantum Reactor—testing resonance across the 36-node lattice using spinor vectors and harmonic amplitudes. This simulation will visualize how energy modulates across symbolic shell.
 
+# What This Simulates: 36 nodes arranged on a spherical shell/ Resonance amplitudes modulated by harmonic functions Spinor vectors showing directional energy flow/ Color-coded visualization of resonance intensity
+
 ## Simulation: Prism36 Node Resonance (Numeric)
 
 import numpy as np
