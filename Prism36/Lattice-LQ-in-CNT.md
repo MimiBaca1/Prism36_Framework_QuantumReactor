@@ -17,7 +17,7 @@ Enables frequency-responsive behavior, symbolic cognition encoding, and energy p
 Acts as a medium for memory phasing, signal propagation, or symbolic resonance
 
 # Functional Implications
-#| Component           | Role                                | Symbolic Function                          |
+| Component           | Role                                | Symbolic Function                          |
 |---------------------|-------------------------------------|---------------------------------------------|
 | **CNT Scaffold**     | Structural backbone of the node lattice | Symbolic geometry / recursive containment   |
 | **Liquid Crystal Core** | Tunable medium within each tube     | Cognition flow / energy modulation          |
