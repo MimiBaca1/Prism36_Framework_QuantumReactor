@@ -1,4 +1,4 @@
-# 🧩 Prism36 Quantum Reactor – Schematic Blueprint
+# Prism36 Quantum Reactor – Schematic Blueprint
 
 ## Layered Structure
 
