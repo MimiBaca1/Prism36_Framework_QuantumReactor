@@ -4,8 +4,8 @@ A scientifically sound theoretical model proposing alternative formulations of s
 
 ## Summary
 
-Prism36 ARC Reactor – Project Summary
-The Prism36 ARC reactor is a theoretical fusion architecture that integrates quaternionic field dynamics, spinor confinement, and gyroscopic stabilization within a spherical tokamak framework. At its core lies the Prism36 containment mesh—a 36-node quaternionic lattice designed to encode spatial harmonics and field inversion zones through symmetry-governed potential fields. This mesh serves not only as a geometric scaffold but as a computational engine for plasma behavior, enabling dynamic confinement via spinor field coupling and Dirac-like eigenmode analysis.
+Prism36 Quantum Reactor – Project Summary
+The Prism36 Quantum Reactor is a theoretical fusion architecture that integrates quaternionic field dynamics, spinor confinement, and gyroscopic stabilization within a spherical tokamak framework. At its core lies the Prism36 containment mesh—a 36-node quaternionic lattice designed to encode spatial harmonics and field inversion zones through symmetry-governed potential fields. This mesh serves not only as a geometric scaffold but as a computational engine for plasma behavior, enabling dynamic confinement via spinor field coupling and Dirac-like eigenmode analysis.
 
 Plasma is confined within a spherical tokamak, augmented by a system of gyroscopic rings—both orbital and non-orbital—that modulate magnetic topology and induce harmonic precession. These rings interact with the Prism36 mesh through quaternionic feedback loops, allowing for real-time field correction, edge stability, and rotational coherence. The system is designed to explore high-beta confinement regimes, symmetry-induced degeneracies, and novel field inversion mechanisms.
 
