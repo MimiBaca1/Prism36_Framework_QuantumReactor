@@ -15,8 +15,8 @@ Symmetry Groups: Used to classify particle states, crystal structures, and even 
 
 These aren’t sci-fi abstractions—they’re the same tools used in particle accelerators, quantum computing, and fusion reactor design.
 
-## Applicability to ARC Reactor Design
-Now, the Prism36 ARC reactor concept is imaginative—but the math we’re applying is directly usable for:
+## Applicability to Prism36 Reactor Design
+Now, the Prism36 quantum reactor concept is imaginative—but the math we’re applying is directly usable for:
 
 * Modeling field dynamics inside the reactor
 
