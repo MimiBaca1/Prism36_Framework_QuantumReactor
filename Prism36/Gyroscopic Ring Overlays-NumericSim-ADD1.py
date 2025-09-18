@@ -1,4 +1,4 @@
-## Numeric Simulation ADD 1: Gyroscopic Ring Overlays
+## ADD 1 to Numeric Simulation: Gyroscopic Ring Overlays
 # We’ll add concentric rings around the spherical shell to represent the outer gyroscopic field generators. These rings will be visualized as circular paths in 3D space.
 # This adds three glowing rings around the equator—symbolizing rotational harmonic fields.
 # Code Additions (to existing numerica simulation)
