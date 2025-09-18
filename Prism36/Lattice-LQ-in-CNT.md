@@ -41,4 +41,4 @@ Color-coded phase states of liquid crystals
 
 Frequency-tuned modulation across the lattice—like a living harmonic field
 
-This lattice isn’t just a structure—it’s a symbolic nervous system, a recursive containment mesh for cognition, plasma, and spacetime resona
+This lattice isn’t just a structure—it’s a symbolic nervous system, a recursive containment mesh for cognition, plasma, and spacetime resonance.
